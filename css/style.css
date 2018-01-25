@@ -482,8 +482,8 @@ footer {
     background: url('../images/venue-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
-    padding-top: 11rem;
-    padding-bottom: 11rem; 
+    padding-top: 24rem;
+    padding-bottom: 24rem; 
 }
 
 #venue p {
@@ -492,14 +492,11 @@ footer {
 }
 
 
-
-/*---------------------------------------
-   Sponsors section              
------------------------------------------*/
-#sponsors img {
-  margin-top: 18px;
+#disclaimer {
+  text-align: center;
+  padding-top: 16rem;
+  padding-bottom: 6rem;
 }
-
 
 
 /*---------------------------------------
