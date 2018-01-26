@@ -504,6 +504,7 @@ footer {
 -----------------------------------------*/
 footer {
   background-attachment: fixed;
+  padding-top: 1rem;
 }
 
 
